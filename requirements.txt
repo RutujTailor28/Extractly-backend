@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+supabase
+pydantic-settings
+python-dotenv
+python-multipart
+PyMuPDF
+Pillow
+opencv-python-headless
+numpy
+openai
+google-genai
+openpyxl
+httpx
